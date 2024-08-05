@@ -1,16 +1,11 @@
 ## Hi there 👋
-
-<!--
-**gigicahc/gigicahc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Giovana Ferreira Barbosa
+- 🔭 I’m currently working on ... school
+- 🌱 I’m currently learning ... alura
+- 👯 I’m looking to collaborate on ... Ana Paula
+- 🤔 I’m looking for help with ... alura
+- 💬 Ask me about ... crochet
+- 📫 How to reach me: ... 00001126775526sp@al.educacao.sp.gov.br
+- 😄 Pronouns: ... she/her
+- ⚡ Fun fact: ... I like avocado
+--> .
